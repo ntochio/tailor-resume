@@ -1,0 +1,15 @@
+# 個人情報ファイルを除外
+*.xlsx
+*.xls
+*.gdoc
+*.docx
+*.doc
+*.pdf
+
+# 応募書類フォルダ（生成物）
+応募書類/
+
+# OS・エディタ系
+.DS_Store
+Thumbs.db
+desktop.ini
