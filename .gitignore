@@ -9,6 +9,9 @@
 # 応募書類フォルダ（生成物）
 応募書類/
 
+# Claude Code ローカル設定
+.claude/settings.local.json
+
 # OS・エディタ系
 .DS_Store
 Thumbs.db
